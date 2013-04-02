@@ -529,8 +529,8 @@ https://github.com/AdamWhitcroft/CSS3.Gmail.Buttons
 .blue.icon.close:before {
 	background-position:-12px -108px;
 }
-.red.icon.comment:before, .
-blue.icon.comment:before {
+.red.icon.comment:before,
+.blue.icon.comment:before {
 	background-position:-12px -120px;
 }
 .red.icon.delete:before, 
